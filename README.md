@@ -44,3 +44,11 @@ Com podem passar un tipus de dada a un altre.
 També hem après a entrar una dada per teclat i guardar-la en una variable. A continuació, hem estat capaços d’imprimir resultats en pantalla i, fins i tot, especificar quants decimals volem mostrar.
 
 I, no menys important, ara sabem escriure comentaris en el nostre codi.
+
+**Estructura de dades. Llistes i diccionaris**
+
+Ha arribat el moment de treballar amb aquests dos tipus d’estructures de dades: les llistes i els diccionaris. També aprofundirem sobre les accions que podem fer amb elles, com ara afegir o treure elements, accedir a la informació, etc.
+
+Les llistes són les entitats (objectes) que permeten guardar una col·lecció de dades dins d’una mateixa variable. Els diccionaris també ho són, però en aquest cas necessitem una clau per accedir a la informació.
+
+Durant la redacció de codi és molt habitual fer ús d’aquestes estructures, així que aquest mòdul és prou important per tal que, una vegada haguem entès com treballar-hi, fem un salt significatiu com a futurs programadors i programadores. 
