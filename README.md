@@ -45,7 +45,7 @@ També hem après a entrar una dada per teclat i guardar-la en una variable. A c
 
 I, no menys important, ara sabem escriure comentaris en el nostre codi.
 
-**Estructura de dades. Llistes i diccionaris**
+**2.Estructura de dades. Llistes i diccionaris**
 
 Ha arribat el moment de treballar amb aquests dos tipus d’estructures de dades: les llistes i els diccionaris. També aprofundirem sobre les accions que podem fer amb elles, com ara afegir o treure elements, accedir a la informació, etc.
 
@@ -104,7 +104,7 @@ Els diccionaris són una col·lecció de dades formades per parelles clau-valor.
 
 També hem vist que els objectes, les funcions i les estructures de dades estan connectades entre elles i no són entitats aïllades.
 
-***Estructures condicionals i cicles***
+**3. Estructures condicionals i cicles**
 
 En les properes activitats  faràs realment un pas endavant per convertir-te en programador o programadora i aconseguiràs les habilitats que et permetran dissenyar el teu primer algoritme. Veurem les sentències condicionals i els cicles.
 
