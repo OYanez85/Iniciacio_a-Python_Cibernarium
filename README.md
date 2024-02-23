@@ -103,3 +103,13 @@ Els diccionaris són una col·lecció de dades formades per parelles clau-valor.
  
 
 També hem vist que els objectes, les funcions i les estructures de dades estan connectades entre elles i no són entitats aïllades.
+
+***Estructures condicionals i cicles***
+
+En les properes activitats  faràs realment un pas endavant per convertir-te en programador o programadora i aconseguiràs les habilitats que et permetran dissenyar el teu primer algoritme. Veurem les sentències condicionals i els cicles.
+
+Les sentències condicionals són blocs de codi que ens serveixen per executar una sèrie d’accions o unes altres, depenent d’unes determinades condicions. Aquestes estructures, doncs, fan possible dissenyar algoritmes capaços de resoldre problemes molt complexos.
+
+El cicles són blocs de codi que es repeteixen sempre que es compleixi una condició. Aquesta eina permet repetir una sèrie d’accions sense necessitat de repetir les mateixes línies de codi.
+
+Les condicions i els cicles ens esperen. Comencem!
