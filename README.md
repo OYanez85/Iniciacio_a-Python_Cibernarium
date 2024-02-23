@@ -49,6 +49,29 @@ I, no menys important, ara sabem escriure comentaris en el nostre codi.
 
 Ha arribat el moment de treballar amb aquests dos tipus d’estructures de dades: les llistes i els diccionaris. També aprofundirem sobre les accions que podem fer amb elles, com ara afegir o treure elements, accedir a la informació, etc.
 
+**Exercici 2: Ara et toca a tu: Repte. La cistella de la compra**
+
+Fixa’t bé en l’enunciat i completa l’exercici següent:
+
+Suposem que hem fet una compra en un fruiteria. Les fruites i el seu import ens apareix en el tiquet de la manera següent:
+
+Pomes: 3,56 €
+Mandarines: 4,35 €
+Síndria: 6,23 €
+Maduixes: 4,28 €
+Peres: 2,86
+Taronges: 3,48 €
+ 
+
+Guarda la llista de la compra en forma de diccionari (pots ometre les unitats). Escriu el codi per tal de resoldre les qüestions següents:
+
+Podries calcular la mitjana de la compra accedint als valors de les claus? Procura posar només dos decimals.
+Podries copiar i guardar en una nova variable la llista dels imports sense tenir en compte els dos últims?
+Podries saber com comprovar si hem comprat llimones?
+ 
+
+Endavant!
+
 Les llistes són les entitats (objectes) que permeten guardar una col·lecció de dades dins d’una mateixa variable. Els diccionaris també ho són, però en aquest cas necessitem una clau per accedir a la informació.
 
 Durant la redacció de codi és molt habitual fer ús d’aquestes estructures, així que aquest mòdul és prou important per tal que, una vegada haguem entès com treballar-hi, fem un salt significatiu com a futurs programadors i programadores. 
