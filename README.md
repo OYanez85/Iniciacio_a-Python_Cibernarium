@@ -1,5 +1,5 @@
 # Iniciacio_a-Python_Cibernarium
-1. Les variables
+**1. Les variables**
 
 Ha arribat el moment de fer ús de les variables amb Python. Primer, veurem com escriure-les correctament i de què es componen, quin tipus d’informació emmagatzemen i quines accions podem fer servir per operar amb les seves dades o contingut.
 
