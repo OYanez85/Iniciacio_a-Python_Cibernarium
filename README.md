@@ -75,3 +75,32 @@ Endavant!
 Les llistes són les entitats (objectes) que permeten guardar una col·lecció de dades dins d’una mateixa variable. Els diccionaris també ho són, però en aquest cas necessitem una clau per accedir a la informació.
 
 Durant la redacció de codi és molt habitual fer ús d’aquestes estructures, així que aquest mòdul és prou important per tal que, una vegada haguem entès com treballar-hi, fem un salt significatiu com a futurs programadors i programadores. 
+
+**Idees clau: Estructura de dades. Llistes i diccionaris**
+
+
+En aquest mòdul has après a treballar amb llistes i diccionaris, que són les estructures de dades més utilitzades en Python.
+
+Les llistes són una col·lecció de dades del mateix tipus o no, a les quals es pot accedir mitjançant un index de posició. Cada dada a la llista té assignat el seu propi index. Hi ha una particularitat i és que el primer index sempre és 0 i no pas 1.  A més a més, amb les llistes, has après a fer les accions següents:
+
+Saber si una dada forma part de la llista mitjançant la sentència in, la qual torna un valor veritable o fals, depenent de si en forma part o no.
+
+Afegir una nova dada amb append().
+Treure l’última dada amb pop().
+Saber quina posició té una dada amb index().
+Sumar els valors que conté la llista amb sum().
+Saber el número de dades que conté una llista amb len().
+ 
+
+Els diccionaris són una col·lecció de dades formades per parelles clau-valor. Per accedir a la informació d’una dada, cal saber la clau associada i no la seva posició, com es fa amb les llistes. Amb els diccionaris, has après a:
+
+Afegir una nova parella clau-valor.
+Saber quantes parelles clau-valor té el diccionari.
+Fer ús de la funció get() per accedir a una informació.
+Extreure una llista del conjunt de les claus.
+Generar una llista del conjunt dels valors.
+Generar una llista del conjunt de parelles clau-valor.
+Eliminar una parella clau-valor.
+ 
+
+També hem vist que els objectes, les funcions i les estructures de dades estan connectades entre elles i no són entitats aïllades.
