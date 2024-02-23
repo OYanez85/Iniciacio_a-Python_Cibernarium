@@ -93,13 +93,13 @@ Les llistes són una col·lecció de dades del mateix tipus o no, a les quals es
 
 Els diccionaris són una col·lecció de dades formades per parelles clau-valor. Per accedir a la informació d’una dada, cal saber la clau associada i no la seva posició, com es fa amb les llistes. Amb els diccionaris, has après a:
 
-Afegir una nova parella clau-valor.
-Saber quantes parelles clau-valor té el diccionari.
-Fer ús de la funció get() per accedir a una informació.
-Extreure una llista del conjunt de les claus.
-Generar una llista del conjunt dels valors.
-Generar una llista del conjunt de parelles clau-valor.
-Eliminar una parella clau-valor.
+- Afegir una nova parella clau-valor.
+- Saber quantes parelles clau-valor té el diccionari.
+- Fer ús de la funció get() per accedir a una informació.
+- Extreure una llista del conjunt de les claus.
+- Generar una llista del conjunt dels valors.
+- Generar una llista del conjunt de parelles clau-valor.
+- Eliminar una parella clau-valor.
  
 
 També hem vist que els objectes, les funcions i les estructures de dades estan connectades entre elles i no són entitats aïllades.
