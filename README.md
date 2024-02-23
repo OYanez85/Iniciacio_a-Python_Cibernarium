@@ -29,3 +29,18 @@ Sabries canviar-la a una dada del tipus string?
 Procura esforçar-te per resoldre les dues parts de l’exercici sense necessitat de mirar la solució. Si no te’n surts, llavors consulta-la.
 
 Endavant!
+
+**Idees clau: Les variables**
+
+A continuació, farem un repàs de les idees més importants que hem tractat.
+
+Què és realment una variable.
+Com declarar-la en el codi.
+Quins tipus d’informació poden guardar les variables.
+Quines operacions podem fer amb els diversos tipus de dades.
+Com podem passar un tipus de dada a un altre.
+ 
+
+També hem après a entrar una dada per teclat i guardar-la en una variable. A continuació, hem estat capaços d’imprimir resultats en pantalla i, fins i tot, especificar quants decimals volem mostrar.
+
+I, no menys important, ara sabem escriure comentaris en el nostre codi.
