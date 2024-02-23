@@ -8,6 +8,7 @@ Les variables són les entitats que permeten emmagatzemar la informació dels pr
 La sintaxi de les variables amb Python és molt senzilla i neta. Començarem per gestionar els tipus de variables més bàsics i, després, veurem algunes variables menys intuïtives que, potser, requeriran més atenció si mai abans no hem après cap llenguatge de programació.
 
 **Ara et toca a tu: Repte. Calcula el valor de x**
+
 Suposem que fem diverses compres a l’any, en total quatre, a una empresa proveïdora que ens ven els seus productes en dòlars. Els imports de les compres són: 356.75 $, 487.45 $, 295.83 $ i 532.00 $. Haurem de convertir el valor de dòlars a euros. 
 
 Part 1: Calcula i imprimeix per pantalla les dades següents:
