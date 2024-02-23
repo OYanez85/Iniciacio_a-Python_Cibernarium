@@ -25,6 +25,20 @@ for num in numeros:
 print('major10: ', major10)
 print('menor10: ', menor10)
 
+# Print the first five numbers of each list using a while loop
+print('First 5 numbers of major10:')
+i = 0
+while i < min(5, len(major10)):
+    print(major10[i])
+    i += 1
+
+print('First 5 numbers of menor10:')
+i = 0
+while i < min(5, len(menor10)):
+    print(menor10[i])
+    i += 1
+
+
 # random function and randint()
 
 import random  # This line imports the random module

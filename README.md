@@ -125,3 +125,25 @@ A continuació, imprimeix només els cinc primers números. Fes ús de l’estru
 Si vols, i de manera opcional, intenta fer aquest últim pas:
 
 Torna a fer les accions anteriors, però en lloc d’introduir els números per teclat, fes-ho important el mòdul random i fent ús de la funció randint().
+
+**Idees clau: Estructures condicionals i cicles**
+En aquest mòdul hem après a fer ús dels cicles for i while. Per una banda, els cicles for ens permeten repetir blocs de codi a través d’una seqüència iterable. Per altra banda, podem executar el codi que hi ha a dins de l’estructura while repetidament, sempre que la condició que marquem sigui certa.
+
+Els blocs de codi, tant per als cicles for com per als cicles while, són aquelles línies de codi que van després dels : –dos punts– i que estan indexades una posició a la dreta. De fet, qualsevol bloc de codi en Python que formi part d’una estructura sempre s’escriurà així.
+
+La funció range() ens permet generar una seqüència iterable per ser utilitzada en els cicles for. El primer valor marca l’inici de la seqüència, el segon marca el final (el valor no està inclòs) i el tercer marca l’avanç a través d’aquesta seqüència.
+
+La sentència in és la que ens indica sobre quina seqüència s’executarà el cicle for. De fet, l’expressió in també pot referir-se directament a una llista i tractar-la com una seqüència iterable.
+
+També hem après a generar una seqüència de valors enters de manera aleatòria fent ús de la funció randint() del mòdul random.
+
+La funció while avalua la condició només a l’inici del cicle. Això vol dir que, si durant el bloc de codi no es compleix la condició, primer s’executarà tot el bloc i s’aturarà la repetició només quan el cicle torni a començar.
+
+**Construcció de funcions**
+
+Les funcions permeten replicar blocs de codi allà on els necessitem. Això vol dir que només les haurem de definir una vegada per fer-les servir després sense límit de rèpliques. Les funcions poden contenir, dins dels seus blocs, totes les sentències i estructures que hem après durant el curs.
+
+Les funcions poden ser simples o molt complexes i, fins i tot, es poden fer servir una dins d’una altra. Imagina que vols crear un joc en el qual el protagonista és un avatar que ha de superar diverses aventures. Totes les accions que podrà fer aquest avatar estaran definides per les funcions que tu defineixis. Saltar, anar a l’esquerra, atacar… tot això són funcions.
+
+Les funcions es poden emmagatzemar en una variable. Sí, i també són objectes. Recorda: a Python, tot són objectes.
+
