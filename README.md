@@ -83,13 +83,12 @@ En aquest mòdul has après a treballar amb llistes i diccionaris, que són les 
 
 Les llistes són una col·lecció de dades del mateix tipus o no, a les quals es pot accedir mitjançant un index de posició. Cada dada a la llista té assignat el seu propi index. Hi ha una particularitat i és que el primer index sempre és 0 i no pas 1.  A més a més, amb les llistes, has après a fer les accions següents:
 
-Saber si una dada forma part de la llista mitjançant la sentència in, la qual torna un valor veritable o fals, depenent de si en forma part o no.
-
-Afegir una nova dada amb append().
-Treure l’última dada amb pop().
-Saber quina posició té una dada amb index().
-Sumar els valors que conté la llista amb sum().
-Saber el número de dades que conté una llista amb len().
+- Saber si una dada forma part de la llista mitjançant la sentència in, la qual torna un valor veritable o fals, depenent de si en forma part o no.
+- Afegir una nova dada amb append().
+- Treure l’última dada amb pop().
+- Saber quina posició té una dada amb index().
+- Sumar els valors que conté la llista amb sum().
+- Saber el número de dades que conté una llista amb len().
  
 
 Els diccionaris són una col·lecció de dades formades per parelles clau-valor. Per accedir a la informació d’una dada, cal saber la clau associada i no la seva posició, com es fa amb les llistes. Amb els diccionaris, has après a:
