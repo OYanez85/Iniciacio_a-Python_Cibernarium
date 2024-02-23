@@ -1,7 +1,7 @@
 temp = int(input())
 prob = float(input())
 
-dic = {'jaqueta}: False, 'pantalons': 'curts', 'calçat': 'normal'}
+dic = {'jaqueta': False, 'pantalons': 'curts', 'calçat': 'normal'}
 
 if temp <= 20:
     dic['jaqueta'] = True
