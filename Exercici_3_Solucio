@@ -1,0 +1,45 @@
+print('Introdueix 10 numeros')
+llista = []
+for i in range(0,10):
+    print('imprimeix posició:', i)
+    llista.append(int(input()))
+    
+print(llista)
+
+for j in range(0, len(llista)):
+    if llista[j] > 10:
+        llista[j] = llista[j] * 2
+    if llista[j] < 10:
+        llista[j] = llista[j] * 3
+
+print(llista)
+
+j = 0
+while j < 5:
+    print(llista[j])
+    j = j + 1
+    
+
+# Solucio amb random
+
+import random
+
+print('Introdueix 10 numeros')
+llista = []
+for i in range(0,10):
+    llista.append(random.randint(1,19))
+
+print(llista)
+
+for j in range(0, len(llista)):
+    if llista[j] > 10:
+        llista[j] = llista[j] * 2
+    if llista[j] < 10:
+        llista[j] = llista[j] * 3
+
+print(llista)
+
+j = 0
+while j < 5:
+    print(llista[j])
+    j = j + 1

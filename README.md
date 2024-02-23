@@ -113,3 +113,15 @@ Les sentències condicionals són blocs de codi que ens serveixen per executar u
 El cicles són blocs de codi que es repeteixen sempre que es compleixi una condició. Aquesta eina permet repetir una sèrie d’accions sense necessitat de repetir les mateixes línies de codi.
 
 Les condicions i els cicles ens esperen. Comencem!
+
+**3.1. Exercici: Ara et toca a tu: Repte. Ser o no ser**
+Genera una seqüència iterable formada per una llista de 10 números enters majors que 0 i menors que 20. Procura que tots els números d’aquesta llista els entris per teclat. Una vegada tinguis la llista, realitza les accions següents:
+
+Fes que tots els elements siguin multiplicats per 3, si són menors que 10, o per 2, si són majors que 10. Fes ús de l’estructura for.
+Imprimeix la llista. Fes ús de l’estructura for.
+A continuació, imprimeix només els cinc primers números. Fes ús de l’estructura while.
+ 
+
+Si vols, i de manera opcional, intenta fer aquest últim pas:
+
+Torna a fer les accions anteriors, però en lloc d’introduir els números per teclat, fes-ho important el mòdul random i fent ús de la funció randint().
