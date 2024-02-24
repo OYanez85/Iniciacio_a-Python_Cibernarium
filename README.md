@@ -167,3 +167,19 @@ Resol l’exercici per aquestes tres llistes diferents que agafen la funcio_1 co
 [3,6,8]
 
 Procura resoldre l’exercici suposant que la llista que agafa com a paràmetre la funcio_1 és una seqüencia de quatre valors enters generats aleatòriament de l’1 al 9.
+
+**Idees clau: Construcció de funcions**
+
+Ja hem acabat el curs. Repassem les idees més importants que han aparegut relacionades amb les funcions.
+
+Per tal de construir funcions, primer necessitem escriure el bloc i després invocar-les per fer-les servir.
+
+La construcció es compon de la sentència def, el nom de la funció, els paràmetres i el codi. El codi que forma part d’aquesta funció sempre ha d’anar després de dos punts (:) i estar indexat una posició a la dreta.
+
+Les funcions poden generar valors mitjançant la sentència return. Això vol dir que una funció, quan sigui invocada, enviarà una dada que serà allò que torni la sentència return. Aquesta dada es pot guardar en una variable, per fer-la servir després, fer-la servir directament dins d’una altra operació o com a paràmetre d’una altra funció. De fet, les funcions poden ser invocades unes sobre les altres, fent-se passar per paràmetres.
+
+Les funcions senceres poden ser guardades en una variable. Aquesta es pot invocar amb els paràmetres que corresponguin, per tal de dur a terme les accions de la funció.
+
+Si vols descarregar-te el contingut del curs en català, fes clic aquí.
+
+Si quieres descargarte el contenido del curso en castellano, haz clic aquí.
